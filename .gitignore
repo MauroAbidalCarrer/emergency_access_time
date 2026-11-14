@@ -224,3 +224,5 @@ data/
 *.pyc
 data/
 .streamlit/
+
+*.swp
